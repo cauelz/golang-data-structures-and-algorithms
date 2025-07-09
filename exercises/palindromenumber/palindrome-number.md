@@ -26,6 +26,10 @@ An integer is a **palindrome** when it reads the same backward as forward. For e
 **Input:** x = -101  
 **Output:** false
 
+## Constraints
+
+- -2³¹ ≤ x ≤ 2³¹ - 1
+
 ---
 
 *Source: LeetCode #9*
